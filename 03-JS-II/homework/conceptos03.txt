@@ -1,0 +1,26 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+.FOR
+Es uno de los dos tipos de bulces que disponemos.
+Un bucle es una expresión que evalúa expresiones una y otra vez hasta que devuelve lo que estamos buscando o se detiene luego de cierto timepo.
+
+Su sintaxis es:
+    for (let i=0; i<10; i++>) {
+        console.log(i);
+    }
+
+Entonces:
+    _Comienza con la palabra clave "for"
+    _Está compuesto por tres cosas que se disponen dentro de paréntesis.
+        1ra: declaración de la variable sobre la cual se ejecutará el bucle.
+        2da: condición que debe cumplir esa variable para que la función se ejecute.
+        3ra: incremento de la variable.
+
+. `&&`, `||`, `!`
+Son operadores lógicos, que nos permiten evaluar condiciones complejas.
+    - cond1 && cond2.... si ambas condiciones se cumplen, es true.
+    - cond1 || cond2.... si al menos una de las condiciones se cumple, es true.
+    - ! (cond1===cond2).... devolverá el valor booleano opuesto a lo que se le pasa.
