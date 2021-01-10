@@ -1,0 +1,27 @@
+Tarea
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+. Variables
+Es una forma de almacenar un valor.
+
+. Strings
+Es uno de los tipos de datos.
+Es una cadena de texto.
+
+. Funciones
+Son un tipo de objeto que nos permite manipular variables.
+Los argumentos serán las variables con los que la función trabajará.
+Con la declaración "return", le decimos al programa que nos devuelva el output de la función.
+
+. Declaración IF
+Es un operador de control de flujo que nos permite saber si determinada declaración es true or false.
+
+. Valores booleanos
+Son otro de los tipos de datos.
+Son de tipo binario: true or false.
