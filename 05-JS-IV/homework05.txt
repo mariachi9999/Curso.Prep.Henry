@@ -1,0 +1,28 @@
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+        OBJETOS
+        Son contenedores de datos.
+        Similares a los arrays (matrices).
+        A diferencia de los arrays (que contienen muchos valores del mismo tipo), los objetos contienen muchos valores de distinto tipo referidos a una misma cosa.
+        Se declaran entre llaves {}.
+
+        PROPIEDADES
+        Son pares clave:valor.
+
+        METODOS
+        Son funciones guardadas dentro de un objeto.
+        La clave sería el nombre de la función.
+        El valor sería lo que ejecuta esa función.
+
+        BUCLE 'FOR...IN'
+        Nos sirve para iterar sobre cada par clave-valor de nuestro objeto.
+
+        NOTACION DE PUNTOS vs NOTACION DE CORCHETES
+        Son distintas formas de solicitar que JS haga lo mismo: acceder, eliminar o cambiar valores.
+
+            * En notación de puntos: nombredeobjeto.nombredeclave
+            * En notación de corchetes: nombredeobjeto['nombreclave']     Nota: ver que nombre de clave va entre comillas. 
