@@ -1,0 +1,3 @@
+Martin, de 12 años, nos pregunta que es un array.
+
+Le respondemos que un array es un tipo especial de variable que nos permite guardar varios valores en una misma variable (como si fuera una lista).
