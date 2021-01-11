@@ -1,11 +1,11 @@
-function sonIguales(x, y) {
-    // Devuelve "true" si "x" e "y" son iguales
-    // De lo contrario, devuelve "false"
-    // Tu código:
-    if (x = y) {
-      return true
-    } 
-    return false
+function esPrimo(numero) {
+  // Devuelve "true" si "numero" es primo
+  // De lo contrario devuelve "falso"
+  // Pista: un número primo solo es divisible por sí mismo y por 1
+  // Pista 2: Puedes resolverlo usando un bucle `for`
+  // Nota: Los números 0 y 1 NO son considerados números primos
+  for (let i=0; i<=numero; i++) {
+    return [i]
   }
-
-return sonIguales(15,15)
+}
+return esPrimo(10)
